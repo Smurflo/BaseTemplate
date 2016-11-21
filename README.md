@@ -19,8 +19,8 @@ Kyle's Base template for future projects.
 ## Project Overview
 
 Doesn't actually have any functionality 
-  > Just a jumbotron page with links to 3 other pages
-  > Placeholder login page
-  > Navbar
-  > Some basic javascript
-  > Comes with jquery and bootstrap
+  *Just a jumbotron page with links to 3 other pages
+  *Placeholder login page
+  *Navbar
+  *Some basic javascript
+  *Comes with jquery and bootstrap
