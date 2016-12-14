@@ -39,6 +39,7 @@ Doesn't actually have any functionality
 #### phpstorm (requires student account or $$):
 1. Download at https://www.jetbrains.com/phpstorm/download/#section=windows-version
 2. Create associasions as you wish (I selected all of them)
+
 #### Other Options
    * Sublime Text (for Mac)
    * Eclipse
